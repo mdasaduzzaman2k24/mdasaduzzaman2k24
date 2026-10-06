@@ -1,170 +1,274 @@
-Create a stunning, modern, highly professional GitHub Profile README for me.
+Create a premium, modern and professional GitHub Profile README.md for me.
 
-My name is **Mohammad Aslul Zaman**.
-
-I am an **AI Automation Builder, n8n Automation Developer, AI Agent Builder, and Workflow Automation Enthusiast** focused on building practical AI-powered automation systems for businesses.
-
-Create the profile as a premium professional developer portfolio — clean, impressive, modern, and suitable for attracting **clients, startups, businesses, recruiters, and potential collaborators**.
-
-### PROFILE INFORMATION
-
-Name:
+NAME:
 Mohammad Aslul Zaman
 
-Professional Title:
-AI Automation Builder | n8n Developer | AI Agent Builder | Workflow Automation
+PROFESSIONAL TITLE:
+AI Automation Builder | n8n Developer | AI Agent Builder
 
-Main Focus:
+PROFILE GOAL:
+Build a professional GitHub profile that looks similar to a polished developer portfolio. The design should be clean, modern, minimal, visually attractive, and professional enough for clients, recruiters, startups, and businesses.
 
-* AI Automation
-* n8n Workflow Automation
-* AI Agents
-* Business Process Automation
-* Telegram Automation
-* WhatsApp Automation
-* Facebook Messenger Automation
-* Shopify Automation
-* Customer Support Automation
-* Lead Generation Automation
-* Email & SMS Automation
-* AI-powered Business Solutions
+IMPORTANT:
+Do NOT use fake achievements, fake statistics, fake companies, fake certifications, or fake work experience.
 
-### README STRUCTURE
+==================================================
+HERO SECTION
+==================================================
 
-Create the README with the following sections:
+Create a large professional banner at the top with text:
 
-1. **Hero Section**
+"Welcome to my profile!"
 
-   * Large attractive introduction
-   * My name: Mohammad Aslul Zaman
-   * Professional title
-   * Short powerful statement about AI automation
-   * Professional emojis used sparingly
-   * Add a modern visual feel
+Below the banner, center:
 
-2. **About Me**
-   Write a concise but powerful professional introduction explaining that I build AI-powered automation systems that help businesses reduce repetitive work, improve customer communication, automate workflows, and increase productivity.
+Mohammad Aslul Zaman
 
-3. **What I Build**
-   Present my main services in attractive cards/table/bullet format:
+AI Automation Builder | n8n Developer | AI Agent Builder
 
-   * AI Agents
-   * n8n Automations
-   * Customer Support Bots
-   * Telegram Bots
-   * WhatsApp Automation
-   * Facebook Messenger Automation
-   * Shopify Automation
-   * Lead Management Systems
-   * Email Automation
-   * Business Workflow Automation
+Add professional contact badges/buttons for:
 
-4. **Tech Stack**
-   Showcase relevant technologies with badges/icons:
+- Email
+- LinkedIn
+- Facebook
+- GitHub
+- Portfolio
 
-   * n8n
-   * OpenAI
-   * Google Gemini
-   * JavaScript
-   * Python
-   * REST APIs
-   * Webhooks
-   * Google Sheets
-   * Airtable
-   * Shopify
-   * Telegram
-   * Facebook Messenger
-   * WhatsApp
-   * Pinecone
-   * GitHub
+Use placeholders where links are not provided.
 
-5. **Featured Projects**
-   Create professional project sections/cards for examples such as:
+Add a GitHub profile visitor counter.
 
-   * AI Customer Support Agent
-   * Telegram + Shopify E-commerce Automation
-   * Facebook Messenger AI Automation
-   * Healthcare Appointment Automation
-   * AI Market Research Agent
-   * Social Media Content Automation
-   * Email & SMS Automation
+==================================================
+ABOUT ME
+==================================================
 
-   For each project include:
+Create a professional "About Me" section.
 
-   * Project name
-   * Short description
-   * Technologies used
-   * Main automation capability
-   * Placeholder for GitHub repository/demo link
+Write something like:
 
-6. **Automation Workflow**
-   Include a simple visual workflow concept:
+"I'm Mohammad Aslul Zaman, an AI Automation Builder focused on creating practical AI-powered automation systems for businesses. I build intelligent workflows, AI agents, chatbot systems, API integrations, and business process automations using modern automation tools."
 
-   User → Trigger → AI Agent → Data Processing → Automation → Database/API → Final Response
+Mention that my main interests include:
 
-7. **Why Work With Me**
-   Highlight:
+- AI Automation
+- n8n Workflow Automation
+- AI Agents
+- Business Process Automation
+- API Integration
+- Customer Support Automation
+- E-commerce Automation
+- Telegram Automation
+- WhatsApp Automation
+- Facebook Messenger Automation
+- Shopify Automation
 
-   * Business-focused automation
-   * Practical AI solutions
-   * Clean workflow design
-   * Scalable automation
-   * API integration
-   * AI agent development
-   * Time-saving systems
-   * Reliable workflow architecture
+==================================================
+WHAT I BUILD
+==================================================
 
-8. **GitHub Stats**
-   Add professional GitHub statistics sections using reliable GitHub-compatible services.
-   Include:
+Create an attractive section called:
 
-   * GitHub Stats
-   * Top Languages
-   * Contribution Streak
+"⚡ What I Build"
 
-   Use placeholders where my GitHub username is required:
-   `YOUR_GITHUB_USERNAME`
+Include:
 
-9. **Current Focus**
-   Mention that I am currently focused on:
+🤖 AI Agents
+⚙️ n8n Automation
+💬 AI Customer Support
+📱 Telegram Automation
+📲 WhatsApp Automation
+🛍️ Shopify Automation
+📩 Email & SMS Automation
+📊 Business Workflow Automation
+🔗 API Integrations
+📈 Lead Automation
 
-   * Building AI agents
-   * Advanced n8n automation
-   * AI-powered business workflows
-   * E-commerce automation
-   * Customer support automation
-   * API integrations
+==================================================
+TECH STACK
+==================================================
 
-10. **Let's Connect**
-    Create a professional contact section with placeholders for:
+Create a professional technology section with badges/icons.
 
-* LinkedIn
-* Facebook
-* Email
-* Portfolio
-* GitHub
+Include:
 
-11. **Closing CTA**
-    End with a strong professional statement such as:
+n8n
+OpenAI
+Google Gemini
+JavaScript
+Python
+REST API
+Webhooks
+Google Sheets
+Airtable
+Shopify
+Telegram
+Facebook Messenger
+WhatsApp
+Pinecone
+GitHub
 
-"Have a repetitive business process? Let's automate it with AI."
+==================================================
+FEATURED PROJECTS
+==================================================
 
-### DESIGN REQUIREMENTS
+Create a professional "Featured Projects" section.
 
-* Use clean Markdown.
-* Use HTML only when it improves the visual design.
-* Make the README look premium and professional.
-* Keep it visually balanced.
-* Use emojis/icons professionally, not excessively.
-* Use badges where appropriate.
-* Add horizontal separators between major sections.
-* Use centered hero content where appropriate.
-* Make the layout mobile-friendly.
-* Do not make false claims about experience, clients, certifications, or achievements.
-* Do not invent statistics.
-* Keep all external links as placeholders if the real links are not provided.
-* Make the final result ready to paste directly into `README.md`.
+Project 1:
+AI Customer Support Automation
+Description:
+AI-powered customer support system using AI agents, knowledge bases, vector databases and automation workflows.
 
-The overall impression should be:
+Project 2:
+Telegram + Shopify Automation
+Description:
+Automation system that receives product information and images through Telegram and processes product creation and management in Shopify.
 
-**"A serious AI Automation Developer who builds real-world AI-powered business automation systems."**
+Project 3:
+Facebook Messenger AI Automation
+Description:
+AI-powered Messenger automation for customer conversations, product information, FAQs and order-related communication.
+
+Project 4:
+Healthcare Appointment Automation
+Description:
+AI appointment assistant that manages booking, rescheduling, cancellation and appointment information.
+
+Project 5:
+AI Market Research Agent
+Description:
+AI-powered market research and analysis workflow connected with messaging platforms.
+
+For every project include:
+
+- Project description
+- Technologies used
+- GitHub repository placeholder
+- Demo placeholder
+
+==================================================
+AUTOMATION WORKFLOW
+==================================================
+
+Create a visually attractive workflow section:
+
+User
+ ↓
+Trigger
+ ↓
+AI Agent
+ ↓
+Data Processing
+ ↓
+API / Database
+ ↓
+Automation
+ ↓
+Final Response
+
+Explain that I design automation systems that connect AI with business tools and APIs.
+
+==================================================
+CURRENTLY LEARNING
+==================================================
+
+Add:
+
+- Advanced AI Agents
+- n8n Advanced Workflows
+- AI API Integration
+- RAG Systems
+- Vector Databases
+- Business Automation
+- Multi-platform Automation
+
+==================================================
+GITHUB STATS
+==================================================
+
+Add a professional GitHub stats section.
+
+Use:
+
+GitHub Stats
+Top Languages
+Contribution Streak
+
+IMPORTANT:
+Use:
+
+YOUR_GITHUB_USERNAME
+
+as a placeholder wherever the GitHub username is required.
+
+Do not invent numbers.
+
+==================================================
+LET'S CONNECT
+==================================================
+
+Create a professional contact section:
+
+"Let's build something intelligent together."
+
+Include placeholders for:
+
+Email
+LinkedIn
+Facebook
+Portfolio
+GitHub
+
+==================================================
+DESIGN REQUIREMENTS
+==================================================
+
+The final README should visually resemble a premium GitHub developer profile like this:
+
+Large banner
+        ↓
+Name
+        ↓
+Professional title
+        ↓
+Social/contact badges
+        ↓
+Visitor counter
+        ↓
+About Me
+        ↓
+What I Build
+        ↓
+Tech Stack
+        ↓
+Featured Projects
+        ↓
+Automation Workflow
+        ↓
+Current Focus
+        ↓
+GitHub Stats
+        ↓
+Let's Connect
+
+Use:
+
+- Modern Markdown
+- HTML where necessary
+- Shields.io badges
+- GitHub-compatible images
+- Clean spacing
+- Center alignment where appropriate
+- Professional emojis
+- Horizontal separators
+- Attractive headings
+- Responsive layout
+
+Make the entire README ready to copy directly into:
+
+README.md
+
+The final result should give the impression:
+
+"Professional AI Automation Builder who creates real-world AI-powered business automation systems."
+
+Do not explain how you created it. Output ONLY the complete README.md code.
